@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b63b78e8cb30d1c49a571919d12c4725
+guid: 9bf869000edc15648b8912f70748873a
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -8,18 +8,18 @@ ModelImporter:
     2100000: Material.001
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Icosphere.010
+    4300000: Arbusto
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.001
-    second: {fileID: 2100000, guid: 098470c869a534f4eba6450bbf2aa824, type: 2}
+    second: {fileID: 2100000, guid: 21f86d36aa3018b4ba497f2dc4e2277d, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: lH8yTHvm
-    second: {fileID: 2800000, guid: 9792945d36ea1bc44aa68b75419e22d2, type: 3}
+    second: {fileID: 2800000, guid: 8dcacb6d7b290804db38e84e3b7d44ed, type: 3}
   materials:
     importMaterials: 1
     materialName: 0
